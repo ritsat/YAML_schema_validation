@@ -12,7 +12,5 @@ This project covers how to validate YAML document using schema. It covers,
 5) Convert YAML object to JSON
 6) Perform YAML schema validation
 
-This site was built using [GitHub Pages](https://pages.github.com/).
 
-
-For more details on this project click [here]([https://www.google.com](https://www.linkedin.com/pulse/mastering-yaml-schema-validation-java-comprehensive-guide-chopade-uounf/)).
+For more details on this project click [here](https://www.linkedin.com/pulse/mastering-yaml-schema-validation-java-comprehensive-guide-chopade-uounf/).
