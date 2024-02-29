@@ -6,7 +6,7 @@ YAML schema validation using java libraries like SnackYAML & JSON Schema Validat
 
 This project covers how to validate YAML document using schema. It covers,
 1) Java library details
-2) Defining JSON Schema for YAML Validation:
+2) Define JSON Schema for YAML Validation
 3) Load YAML document
 4) Parse YAML document using SnakeYAML
 5) Convert YAML object to JSON
